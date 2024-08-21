@@ -7,7 +7,7 @@ using EcommerceDemo.WebApp.Models;
 using Microsoft.AspNetCore.Mvc;
 
 // For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-
+//CRUD Catagory Done
 namespace EcommerceDemo.WebApp.Controllers
 {
     public class CategoryController : Controller
