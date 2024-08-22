@@ -1,5 +1,5 @@
 ﻿using System;
-using EcommerceDemo.WebApp.Models;
+using EcommerceDemo.Models.Models;
 using Microsoft.EntityFrameworkCore;
 
 namespace EcommerceDemo.WebApp.Data

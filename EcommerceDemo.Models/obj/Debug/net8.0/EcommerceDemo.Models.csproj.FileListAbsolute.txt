@@ -1,0 +1,12 @@
+/Users/phuclt/Projects/EcommerceDemo/EcommerceDemo.Models/bin/Debug/net8.0/EcommerceDemo.Models.deps.json
+/Users/phuclt/Projects/EcommerceDemo/EcommerceDemo.Models/bin/Debug/net8.0/EcommerceDemo.Models.dll
+/Users/phuclt/Projects/EcommerceDemo/EcommerceDemo.Models/bin/Debug/net8.0/EcommerceDemo.Models.pdb
+/Users/phuclt/Projects/EcommerceDemo/EcommerceDemo.Models/obj/Debug/net8.0/EcommerceDemo.Models.GeneratedMSBuildEditorConfig.editorconfig
+/Users/phuclt/Projects/EcommerceDemo/EcommerceDemo.Models/obj/Debug/net8.0/EcommerceDemo.Models.AssemblyInfoInputs.cache
+/Users/phuclt/Projects/EcommerceDemo/EcommerceDemo.Models/obj/Debug/net8.0/EcommerceDemo.Models.AssemblyInfo.cs
+/Users/phuclt/Projects/EcommerceDemo/EcommerceDemo.Models/obj/Debug/net8.0/EcommerceDemo.Models.csproj.CoreCompileInputs.cache
+/Users/phuclt/Projects/EcommerceDemo/EcommerceDemo.Models/obj/Debug/net8.0/EcommerceDemo.Models.sourcelink.json
+/Users/phuclt/Projects/EcommerceDemo/EcommerceDemo.Models/obj/Debug/net8.0/EcommerceDemo.Models.dll
+/Users/phuclt/Projects/EcommerceDemo/EcommerceDemo.Models/obj/Debug/net8.0/refint/EcommerceDemo.Models.dll
+/Users/phuclt/Projects/EcommerceDemo/EcommerceDemo.Models/obj/Debug/net8.0/EcommerceDemo.Models.pdb
+/Users/phuclt/Projects/EcommerceDemo/EcommerceDemo.Models/obj/Debug/net8.0/ref/EcommerceDemo.Models.dll

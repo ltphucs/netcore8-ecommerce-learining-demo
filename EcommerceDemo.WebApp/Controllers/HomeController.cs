@@ -1,6 +1,7 @@
 ﻿using System.Diagnostics;
+using EcommerceDemo.Models.Models;
 using Microsoft.AspNetCore.Mvc;
-using EcommerceDemo.WebApp.Models;
+
 
 namespace EcommerceDemo.WebApp.Controllers;
 
