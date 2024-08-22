@@ -9,10 +9,14 @@
   <ItemGroup>
     <None Remove="Data\" />
     <None Remove="Migrations\" />
+    <None Remove="Repository\" />
+    <None Remove="Repository\IRepository\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Data\" />
     <Folder Include="Migrations\" />
+    <Folder Include="Repository\" />
+    <Folder Include="Repository\IRepository\" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.8">

@@ -2,7 +2,7 @@
 using EcommerceDemo.Models.Models;
 using Microsoft.EntityFrameworkCore;
 
-namespace EcommerceDemo.WebApp.Data
+namespace EcommerceDemo.DataAccess.Data
 {
 	public class ApplicationDbContext :DbContext
 	{

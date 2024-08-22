@@ -9,10 +9,10 @@
   <PropertyGroup Condition=" '$(RunConfiguration)' == 'https' " />
   <PropertyGroup Condition=" '$(RunConfiguration)' == 'http' " />
   <ItemGroup>
-    <None Remove="Views\Category\" />
+    <None Remove="Controllers\" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Views\Category\" />
+    <Folder Include="Controllers\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\EcommerceDemo.DataAccess\EcommerceDemo.DataAccess.csproj">
