@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EcommerceDemo.RazorWebApp_Temp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bcc150bbfa919e0d69981aee340fea0f96b8f340")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+09e2c43630901aac8f2994d5e6dd293c2b71dabf")]
 [assembly: System.Reflection.AssemblyProductAttribute("EcommerceDemo.RazorWebApp_Temp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EcommerceDemo.RazorWebApp_Temp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

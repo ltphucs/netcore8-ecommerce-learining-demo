@@ -18,6 +18,18 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = /Users/phuclt/Projects/EcommerceDemo/EcommerceDemo.RazorWebApp_Temp
 build_property._RazorSourceGeneratorDebug = 
 
+[/Users/phuclt/Projects/EcommerceDemo/EcommerceDemo.RazorWebApp_Temp/Pages/Categories/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2F0ZWdvcmllcy9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/phuclt/Projects/EcommerceDemo/EcommerceDemo.RazorWebApp_Temp/Pages/Categories/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2F0ZWdvcmllcy9EZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/phuclt/Projects/EcommerceDemo/EcommerceDemo.RazorWebApp_Temp/Pages/Categories/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2F0ZWdvcmllcy9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/phuclt/Projects/EcommerceDemo/EcommerceDemo.RazorWebApp_Temp/Pages/Categories/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2F0ZWdvcmllcy9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
